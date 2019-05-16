@@ -3,7 +3,7 @@
 
 1. Construir uma página HTML que contenha o quadro abaixo, de modo que este esteja centralizado horizontalmente na tela do navegador, sem a utilização do elemento de marcação HTML tabela. 
 
-Sobre a estilização do texto, deverão ser observados os seguintes aspectos, a serem configurados com o uso de propriedades CSS:  Tipo de fonte: Verdana;
+Sobre a estilização do texto, deverão ser observados os seguintes aspectos, a serem configurados com o uso de propriedades CSS:  Tipo de fonte: Verdana;
 Tamanho de fonte: 12 pixels;
 Alinhamento: centralizado horizontalmente;
 Espaçamento entre linhas: duplo;
